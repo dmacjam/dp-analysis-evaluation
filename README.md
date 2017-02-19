@@ -10,8 +10,9 @@ Data are extracted from [Askalot CQA system](https://github.com/AskalotCQA/askal
 MOOC course offered by California Institute of Technology and Delft University of Technology
 
 ## Files
-- [course-analysis.ipynb](course-analysis.ipynb) - data about the course
-- [question-routing-evaluation.ipynb](question-routing-evaluation.ipynb) - feature selection, evaluation of recommendation and classifier performance
+- [Online Evaluation.ipynb](Online Evaluation.ipynb) - Evaluation of online A/B experiment
+- [course-analysis.ipynb](course-analysis.ipynb) - Data about the course
+- [question-routing-evaluation.ipynb](question-routing-evaluation.ipynb) - Feature selection, evaluation of recommendation and classifier performance
 
 ## Abstract
 Community  question  answering  (CQA)  systems  are  successfully  used  on  the  open  Web  and  in 
