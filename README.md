@@ -9,6 +9,9 @@
 Data are extracted from [Askalot CQA system](https://github.com/AskalotCQA/askalot) used in [QuCryptox Quantum cryptography](https://courses.edx.org/courses/course-v1:CaltechDelftX+QuCryptox+3T2016) 
 MOOC course offered by California Institute of Technology and Delft University of Technology
 
+## Source code
+Available in branch [question-routing-mooc-feature in Askalot CQA system](https://github.com/AskalotCQA/askalot/compare/question-routing-mooc-feature).
+
 ## Files
 - [Online Evaluation.ipynb](Online Evaluation.ipynb) - Evaluation of online A/B experiment
 - [course-analysis.ipynb](course-analysis.ipynb) - Data about the course
