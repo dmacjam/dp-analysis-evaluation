@@ -13,7 +13,7 @@ MOOC course offered by California Institute of Technology and Delft University o
 Available in branch [question-routing-mooc-feature in Askalot CQA system](https://github.com/AskalotCQA/askalot/compare/question-routing-mooc-feature).
 
 ## Files
-- [Online Evaluation.ipynb](Online Evaluation.ipynb) - Evaluation of online A/B experiment
+- [Online Evaluation.ipynb](Online%20Evaluation.ipynb) - Evaluation of online A/B experiment
 - [course-analysis.ipynb](course-analysis.ipynb) - Data about the course
 - [question-routing-evaluation.ipynb](question-routing-evaluation.ipynb) - Feature selection, evaluation of recommendation and classifier performance
 
