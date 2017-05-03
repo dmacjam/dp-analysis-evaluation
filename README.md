@@ -1,13 +1,13 @@
 # Recommendation of New Questions in Online Student Communities
-## Diploma thesis
+## Master's thesis
 - Author:     Jakub Mačina
-- University: Slovak University of Technology Bratislava
+- University: Slovak University of Technology in Bratislava
 - Degree Course:    Information Systems
 - Supervisor:    Ivan Srba, PhD. 
 
 ## Data
-Data are extracted from [Askalot CQA system](https://github.com/AskalotCQA/askalot) used in [QuCryptox Quantum cryptography](https://courses.edx.org/courses/course-v1:CaltechDelftX+QuCryptox+3T2016) 
-MOOC course offered by California Institute of Technology and Delft University of Technology
+Data are from [Askalot CQA system](https://github.com/AskalotCQA/askalot) used in [QuCryptox Quantum cryptography](https://courses.edx.org/courses/course-v1:CaltechDelftX+QuCryptox+3T2016) 
+MOOC course offered by *California Institute of Technology* and *Delft University of Technology*.
 
 ## Source code
 Available in branch [question-routing-mooc-feature in Askalot CQA system](https://github.com/AskalotCQA/askalot/compare/question-routing-mooc-feature).
