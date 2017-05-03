@@ -18,7 +18,8 @@ Available in branch [question-routing-mooc-feature in Askalot CQA system](https:
 
 ## Setup
 1. Checkout [Askalot branch MOOC question routing](https://github.com/AskalotCQA/askalot/tree/question-routing-mooc-feature)
-2. Import data `pg_restore -d askalot_edx_development < data/database/askalot_anonymized.backup`
+2. Import data (please, contact me for an access to anonymized backup of the database.) 
+`pg_restore -d askalot_edx_development < askalot_anonymized.backup` 
 
 ## Abstract
 Community  question  answering  (CQA)  systems  are  successfully  used  on  the  open  Web  and  in 
