@@ -1,5 +1,5 @@
 # Educational Question Routing in Online Student Communities
-Evaluation for paper accepted at RecSys 2017 - http://dl.acm.org/citation.cfm?id=3109886
+Evaluation for paper accepted at ACM RecSys 2017 - http://dl.acm.org/citation.cfm?id=3109886
 
 - Author:     Jakub Mačina
 - University: Slovak University of Technology in Bratislava
